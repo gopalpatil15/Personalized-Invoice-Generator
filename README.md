@@ -55,7 +55,7 @@ Billing Application/
 ## 🚀 How to Run
 
 1. Clone this repository  
-   `git clone https://github.com/yourusername/invoice-generator.git`
+   `git clone https://github.com/gopalpatil15/Personalized-Invoice-Generator.git`
 
 2. Setup MySQL database:
    - Create a DB named `invoice`
